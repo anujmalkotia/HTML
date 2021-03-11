@@ -1,0 +1,106 @@
+Q1.
+<html>
+<body>
+<table style="width:100%">
+<tr>
+<th> Decimals </th>
+<th> English </th>
+<th> Spanish </th>
+<th> Korean </th>
+<th> Binary </th>
+</tr>
+<tr>
+<td> 1 </td>
+<td> one </td>
+<td> uno </td>
+<td> hanna </td>
+<td> 0001 </td>
+</tr>
+<tr>
+<td> 2 </td>
+<td> two</td>
+<td> dos </td>
+<td> dool </td>
+<td> 0010 </td>
+</tr>
+<tr>
+<td> 3 </td>
+<td> three </td>
+<td> tres </td>
+<td> set </td>
+<td> 0011 </td>
+</tr>
+<tr>
+<td> 4 </td>
+<td> four </td>
+<td> quarto </td>
+<td> net </td>
+<td> 0100 </td>
+</tr>
+<tr>
+<td> 5 </td>
+<td> five </td>
+<td> cinco </td>
+<td> daset </td>
+<td> 0101 </td>
+</tr>
+</table>
+</body>
+</html>
+
+Q2.
+<html>
+<body>
+<h3> Visitors Information </h3>
+<hr size=5 color="black">
+<table border="1px solid black">
+<tr>
+<td> Email Address :: </td>
+<td> <input type="textbox"> </td>
+</tr>
+<tr>
+<td> User interest :: </td>
+<td> <input type="checkbox"> research  <input type="checkbox"> Purchase </td>
+</tr>
+<tr>
+<td> Occupation :: </td>
+<tr> <select name="occ" >
+  <option value="emp">Employeed</option>
+  <option value="unemp">Unemployeed</option>
+  <option value="int">Intern</option>
+  </select>
+</td>
+<tr>
+<td> Want us to send you junk emails </td>
+<td> <input type="checkbox"> absolutely  <input type="checkbox"> No way man </td>
+</tr>
+<tr>
+<td> <input type="Submit" text="Submit"> </td>
+<td> <input type="reset" text="Reset"> </td>
+</tr>
+</table>
+</body>
+</html>
+
+Q3.
+<html>
+<body>
+<form align="center">
+USERNAME:: <input type="textbox"><br>
+PASSWORD:: <input type="textbox"><br>
+CONFIRM PASSWORD:: <input type="textbox"><br>
+GENDER:: <input type="radio"> MALE  <input type="radio"> FEMALE
+<br>
+ADDRESS:: <textarea name="address" rows="5" cols="20"></textarea>
+<br>
+PROFESSION:: <select name="occ" >
+  <option value="emp">Employeed</option>
+  <option value="unemp">Unemployeed</option>
+  <option value="int">Intern</option>
+  </select>
+ </form>
+ </body>
+ </html>
+
+Q4.
+

@@ -1,0 +1,108 @@
+Q1. 
+<html>
+<head>
+<title>Q1</title>
+</head>
+<body>
+<h1> Anuj </h1>
+<h2> Anuj </h2>
+<h3> Anuj </h3>
+<h4> Anuj </h4>
+<h5> Anuj </h5>
+<h6> Anuj </h6>
+</body>
+</html>
+
+Q2.
+<html>
+<head>
+<title>Q2</title>
+</head>
+<body>
+FOOD
+<ol type="a">
+<li>Butter chicken</li>
+<li>Shahi paneer</li>
+<li>Dal Makhni</li>
+</ol>
+
+NUTS
+<ul type="square">
+<li>Walnut</li>
+<li>Almond</li>
+<li>Cashew<li>
+</ul>
+</body>
+</html>
+
+Q3.
+<html>
+<head>
+<title>Q3</title>
+</head>
+<body>
+
+<ol type="1">
+<li> One </li>
+<ol type="a">
+<li>Uno</li>
+<li>Hanna</li>
+</ol>
+<li>Two</li>
+<ol type="a">
+<li>Dos</li>
+<li>Dool</li>
+</ol>
+<li>Three</li>
+<ol type="a">
+<li>Tres</li>
+<li>Set</li>
+</ol>
+</ol>
+
+
+<ul type="circle">
+<li>Chevy</li>
+<ul type="disc">
+<li>Cavilier</li>
+<li>Malibu</li>
+</ul>
+<li>Ford</li>
+<ul type="disc">
+<li>Escort</li>
+<li>F100</li>
+</ul>
+<li>Mazda</li>
+<ul type="disc">
+<li>626</li>
+</ul>
+</ul>
+
+<ol type="A">
+<li> Fruits </li>
+<ol type="i">
+<li> Apples, Oranges, Pears, Banana </li>
+</ol>
+<li>Vegetables</li>
+<ol type="i">
+<li> Corn </li>
+<ol type="a">
+<li> On the cob <li>
+<li> Cream <li>
+</ol>
+<li> Carrots </li>
+<li> Green Beans </li>
+</ol>
+</ol>
+
+</body>
+</html>
+
+Q4.
+<html>
+<body>
+<img src="img1.jpg" alt="image" width="200" height="200"  border="2">
+</body>
+</html>
+
+
